@@ -19,15 +19,15 @@ Parcurgerea acestui soft educațional de către utilizator și promovarea testul
 
 ## 1.	Ghid de instalare:
 După ce se descarcă fișierul WIN-RAR și se dezarhivează, trebuie să intrăm în fișierul “ClubulProgramatorilor” și să accesăm executabilul “ClubulProgramatorilor.exe”.
-![alt text](http://url/to/img.png)
+
 ## 2.	Ghid de utilizare:
 După ce se deschide programul, trebuie va fi aflișată interfața de intrare. 
- 
+![Alt text](Images/2.png)
 În continuare, apăsând pe butonul “Trezește-te” vei fi dus în camera elevului, de unde vei fi ghidat în continuare.
- 
+![Alt text](Images/1.png)
 În sala de clasă, vei întâlni pe cei 7 membri din Clubul Programatorilor  
 După ce sunt prezentate aspectele teoretice de către fiecare membru și se răspunde corect la întrebările acesora, utilizatorul va primi acces la testul final, un set de 15 întrebări quiz.
- 
+![Alt text](Images/3.png)
 În final, utilizatorul va primi o diplomă pe care scrie scorul obținut și timpul total.
 
 # Arhitectura aplicației
