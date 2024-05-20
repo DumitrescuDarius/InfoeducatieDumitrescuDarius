@@ -48,5 +48,10 @@ Am utilizat __Text Mesh Pro__ pentru redactarea scrisului, pentru că are o func
 
 Am folosit __Pro Builder__ pentru a construi camerele din interiorul game engine-ului Unity, ceea ce mi-a permis să realizez cu ușurință obiecte gata texturate.
 
+# Lucruri în progres
+
+Limbi străine (engleză și maghiară)
+
+
 
 
